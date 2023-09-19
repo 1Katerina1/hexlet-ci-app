@@ -1,4 +1,4 @@
-name: hello-world
+name: example-app-for-ci
 # on – определяет события, которые запускают воркфлоу
 on: push
 jobs:
